@@ -1,0 +1,885 @@
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>PEAKXEL | &#27867;&#21345;&#35199; - Home</title><meta property="og:site_name" content="PEAKXEL | &#27867;&#21345;&#35199;" />
+<meta property="og:title" content="PEAKXEL | &#27867;&#21345;&#35199;" />
+<meta property="og:description" content="Peakxel Official Minecraft Server" />
+<meta property="og:image" content="https://peakxel.weebly.com/uploads/1/0/3/2/103273226/editor/235381856.png?1675625537" />
+<meta property="og:image" content="https://peakxel.weebly.com/uploads/1/0/3/2/103273226/published/865338502.png?1675625532" />
+<meta property="og:image" content="https://peakxel.weebly.com/uploads/1/0/3/2/103273226/published/geyser.png?1675625499" />
+<meta property="og:image" content="https://peakxel.weebly.com/uploads/1/0/3/2/103273226/published/grassblock-highres.png?1675625898" />
+<meta property="og:image" content="https://peakxel.weebly.com/uploads/1/0/3/2/103273226/2022-03-26-22-04-25_1.png" />
+<meta property="og:url" content="https://peakxel.weebly.com/" />
+
+<meta name="description" content="Peakxel Official Minecraft Server" />
+<meta name="keywords" content="Minecraft,Peakxel,Server" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+		
+		<link id="wsite-base-style" rel="stylesheet" type="text/css" href="//cdn2.editmysite.com/css/sites.css?buildTime=1717716679" />
+<link rel="stylesheet" type="text/css" href="//cdn2.editmysite.com/css/old/fancybox.css?1717716679" />
+<link rel="stylesheet" type="text/css" href="//cdn2.editmysite.com/css/social-icons.css?buildtime=1717716679" media="screen,projection" />
+<link rel="stylesheet" type="text/css" href="/files/main_style.css?1717895997" title="wsite-theme-css" />
+<link href='//cdn2.editmysite.com/fonts/Montserrat/font.css?2' rel='stylesheet' type='text/css' />
+
+<link href='//cdn2.editmysite.com/fonts/Playfair_Display/font.css?2' rel='stylesheet' type='text/css' />
+<link href='//cdn2.editmysite.com/fonts/Playfair_Display/font.css?2' rel='stylesheet' type='text/css' />
+<link href='//cdn2.editmysite.com/fonts/Montserrat/font.css?2' rel='stylesheet' type='text/css' />
+<link href='//cdn2.editmysite.com/fonts/Playfair_Display/font.css?2' rel='stylesheet' type='text/css' />
+<style type='text/css'>
+.wsite-elements.wsite-not-footer:not(.wsite-header-elements) div.paragraph, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) p, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-block .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-description, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .wsite-form-field label, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .wsite-form-field label, #wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {font-family:"Playfair Display" !important;}
+#wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {color:#0e4361 !important;}
+.wsite-elements.wsite-footer div.paragraph, .wsite-elements.wsite-footer p, .wsite-elements.wsite-footer .product-block .product-title, .wsite-elements.wsite-footer .product-description, .wsite-elements.wsite-footer .wsite-form-field label, .wsite-elements.wsite-footer .wsite-form-field label{}
+.wsite-elements.wsite-not-footer:not(.wsite-header-elements) h2, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-long .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-large .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-small .product-title, #wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {font-family:"Playfair Display" !important;font-weight:400 !important;}
+#wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {color:#1b597c !important;}
+.wsite-elements.wsite-footer h2, .wsite-elements.wsite-footer .product-long .product-title, .wsite-elements.wsite-footer .product-large .product-title, .wsite-elements.wsite-footer .product-small .product-title{}
+#wsite-title {}
+.wsite-menu-default a {}
+.wsite-menu a {}
+.wsite-image div, .wsite-caption {}
+.galleryCaptionInnerText {}
+.fancybox-title {}
+.wslide-caption-text {}
+.wsite-phone {}
+.wsite-headline,.wsite-header-section .wsite-content-title {font-family:"Montserrat" !important;font-weight:700 !important;letter-spacing: -3px !important;}
+.wsite-headline-paragraph,.wsite-header-section .paragraph {font-family:"Playfair Display" !important;font-weight:400 !important;letter-spacing: 0px !important;}
+.wsite-button-inner {}
+.wsite-not-footer blockquote {}
+.wsite-footer blockquote {}
+.blog-header h2 a {}
+#wsite-content h2.wsite-product-title {}
+.wsite-product .wsite-product-price a {}
+@media screen and (min-width: 767px) {.wsite-elements.wsite-not-footer:not(.wsite-header-elements) div.paragraph, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) p, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-block .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-description, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .wsite-form-field label, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .wsite-form-field label, #wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {}
+#wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {}
+.wsite-elements.wsite-footer div.paragraph, .wsite-elements.wsite-footer p, .wsite-elements.wsite-footer .product-block .product-title, .wsite-elements.wsite-footer .product-description, .wsite-elements.wsite-footer .wsite-form-field label, .wsite-elements.wsite-footer .wsite-form-field label{}
+.wsite-elements.wsite-not-footer:not(.wsite-header-elements) h2, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-long .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-large .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-small .product-title, #wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {font-size:37px !important;}
+#wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {}
+.wsite-elements.wsite-footer h2, .wsite-elements.wsite-footer .product-long .product-title, .wsite-elements.wsite-footer .product-large .product-title, .wsite-elements.wsite-footer .product-small .product-title{}
+#wsite-title {}
+.wsite-menu-default a {}
+.wsite-menu a {}
+.wsite-image div, .wsite-caption {}
+.galleryCaptionInnerText {}
+.fancybox-title {}
+.wslide-caption-text {}
+.wsite-phone {}
+.wsite-headline,.wsite-header-section .wsite-content-title {font-size:90px !important;}
+.wsite-headline-paragraph,.wsite-header-section .paragraph {font-size:22px !important;line-height:34px !important;}
+.wsite-button-inner {}
+.wsite-not-footer blockquote {}
+.wsite-footer blockquote {}
+.blog-header h2 a {}
+#wsite-content h2.wsite-product-title {}
+.wsite-product .wsite-product-price a {}
+}</style>
+<link rel='stylesheet' type='text/css' href='//cdn2.editmysite.com/css/old/slideshow/slideshow.css?1717716679' />
+
+		<script src='/files/templateArtifacts.js?1717895997'></script>
+<script>
+var STATIC_BASE = '//cdn1.editmysite.com/';
+var ASSETS_BASE = '//cdn2.editmysite.com/';
+var STYLE_PREFIX = 'wsite';
+</script>
+<script src='https://cdn2.editmysite.com/js/jquery-1.8.3.min.js'></script>
+
+<script type="text/javascript" src="//cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1717716679&"></script>
+<script src="//cdn2.editmysite.com/js/site/main.js?buildTime=1717716679"></script><script type="text/javascript">
+		function initCustomerAccountsModels() {
+					(function(){_W.setup_rpc({"url":"\/ajax\/api\/JsonRPC\/CustomerAccounts\/","actions":{"CustomerAccounts":[{"name":"login","len":2,"multiple":false,"standalone":false},{"name":"logout","len":0,"multiple":false,"standalone":false},{"name":"getSessionDetails","len":0,"multiple":false,"standalone":false},{"name":"getAccountDetails","len":0,"multiple":false,"standalone":false},{"name":"getOrders","len":0,"multiple":false,"standalone":false},{"name":"register","len":4,"multiple":false,"standalone":false},{"name":"emailExists","len":1,"multiple":false,"standalone":false},{"name":"passwordReset","len":1,"multiple":false,"standalone":false},{"name":"passwordUpdate","len":3,"multiple":false,"standalone":false},{"name":"validateSession","len":1,"multiple":false,"standalone":false}]},"namespace":"_W.CustomerAccounts.RPC"});
+_W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":"_W.CustomerAccounts.BackboneModelData","collection_namespace":"_W.CustomerAccounts.BackboneCollectionData","bootstrap_namespace":"_W.CustomerAccounts.BackboneBootstrap","models":{"CustomerAccounts":{"_class":"CustomerAccounts.Model.CustomerAccounts","defaults":null,"validation":null,"types":null,"idAttribute":null,"keydefs":null}},"collections":{"CustomerAccounts":{"_class":"CustomerAccounts.Collection.CustomerAccounts"}},"bootstrap":[]});
+})();
+		}
+		if(document.createEvent && document.addEventListener) {
+			var initEvt = document.createEvent('Event');
+			initEvt.initEvent('customerAccountsModelsInitialized', true, false);
+			document.dispatchEvent(initEvt);
+		} else if(document.documentElement.initCustomerAccountsModels === 0){
+			document.documentElement.initCustomerAccountsModels++
+		}
+		</script>
+		<script type="text/javascript"> _W = _W || {}; _W.securePrefix='peakxel.weebly.com'; </script><script>_W = _W || {};
+			_W.customerLocale = "zh";
+			_W.storeName = null;
+			_W.isCheckoutReskin = false;
+			_W.storeCountry = "CA";
+			_W.storeCurrency = "CAD";
+			_W.storeEuPrivacyPolicyUrl = "";
+			com_currentSite = "563649782826242999";
+			com_userID = "103273226";</script><script type='text/javascript' src='//cdn2.editmysite.com/js/old/slideshow-jq.js?buildTime=1717716679'></script>
+<script type="text/javascript">_W.configDomain = "www.weebly.com";</script><script>_W.relinquish && _W.relinquish()</script>
+<script type="text/javascript" src="//cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1717716679&"></script><script> _W.themePlugins = [];</script><script type="text/javascript"> _W.recaptchaUrl = "https://www.google.com/recaptcha/api.js"; </script><script type="text/javascript"><!--
+	
+	
+	function initFlyouts(){
+		initPublishedFlyoutMenus(
+			[{"id":"667296816105069918","title":"Home","url":"index.html","target":"","nav_menu":false,"nonclickable":false},{"id":"599322842439945335","title":"Map","url":"http:\/\/PEAKXEL.TPDDNS.CN:8123\/","target":"_blank","nav_menu":false,"nonclickable":false},{"id":"586815551771405977","title":"Stream","url":"http:\/\/PEAKXEL.TPDDNS.CN:8080","target":"_blank","nav_menu":false,"nonclickable":false},{"id":"555247278325435192","title":"Updates","url":"updates.html","target":"","nav_menu":false,"nonclickable":false},{"id":"741116275966027445","title":"Control Panel","url":"http:\/\/PEAKXEL.TPDDNS.CN:23333","target":"_blank","nav_menu":false,"nonclickable":false}],
+			"667296816105069918",
+			'',
+			'active',
+			false,
+			{"navigation\/item":"<li {{#id}}id=\"{{id}}\"{{\/id}} class=\"wsite-menu-item-wrap\">\n\t<a\n\t\t{{^nonclickable}}\n\t\t\t{{^nav_menu}}\n\t\t\t\thref=\"{{url}}\"\n\t\t\t{{\/nav_menu}}\n\t\t{{\/nonclickable}}\n\t\t{{#target}}\n\t\t\ttarget=\"{{target}}\"\n\t\t{{\/target}}\n\t\t{{#membership_required}}\n\t\t\tdata-membership-required=\"{{.}}\"\n\t\t{{\/membership_required}}\n\t\tclass=\"wsite-menu-item\"\n\t\t>\n\t\t{{{title_html}}}\n\t<\/a>\n\t{{#has_children}}{{> navigation\/flyout\/list}}{{\/has_children}}\n<\/li>\n","navigation\/flyout\/list":"<div class=\"wsite-menu-wrap\" style=\"display:none\">\n\t<ul class=\"wsite-menu\">\n\t\t{{#children}}{{> navigation\/flyout\/item}}{{\/children}}\n\t<\/ul>\n<\/div>\n","navigation\/flyout\/item":"<li {{#id}}id=\"{{id}}\"{{\/id}}\n\tclass=\"wsite-menu-subitem-wrap {{#is_current}}wsite-nav-current{{\/is_current}}\"\n\t>\n\t<a\n\t\t{{^nonclickable}}\n\t\t\t{{^nav_menu}}\n\t\t\t\thref=\"{{url}}\"\n\t\t\t{{\/nav_menu}}\n\t\t{{\/nonclickable}}\n\t\t{{#target}}\n\t\t\ttarget=\"{{target}}\"\n\t\t{{\/target}}\n\t\tclass=\"wsite-menu-subitem\"\n\t\t>\n\t\t<span class=\"wsite-menu-title\">\n\t\t\t{{{title_html}}}\n\t\t<\/span>{{#has_children}}<span class=\"wsite-menu-arrow\">&gt;<\/span>{{\/has_children}}\n\t<\/a>\n\t{{#has_children}}{{> navigation\/flyout\/list}}{{\/has_children}}\n<\/li>\n"},
+			{}
+		)
+	}
+//-->
+</script>
+		
+		
+	</head>
+	<body class="header-page  wsite-page-index  full-width-body-off header-overlay-off alt-nav-off  wsite-theme-light"><div class="wrapper">
+    <div class="birdseye-header">
+      <div class="nav-wrap">
+        <div class="container">
+          <div class="logo"><span class="wsite-logo">
+
+	<a href="/">
+	
+	<span id="wsite-title">PEAKXEL | &#27867;&#21345;&#35199;</span>
+	
+	</a>
+
+</span></div>
+          <div class="nav desktop-nav"><ul class="wsite-menu-default">
+		<li id="active" class="wsite-menu-item-wrap">
+			<a
+						href="/"
+				class="wsite-menu-item"
+				>
+				Home
+			</a>
+			
+		</li>
+		<li id="pg599322842439945335" class="wsite-menu-item-wrap">
+			<a
+						href="http://PEAKXEL.TPDDNS.CN:8123/"
+					target="_blank"
+				class="wsite-menu-item"
+				>
+				Map
+			</a>
+			
+		</li>
+		<li id="pg586815551771405977" class="wsite-menu-item-wrap">
+			<a
+						href="http://PEAKXEL.TPDDNS.CN:8080"
+					target="_blank"
+				class="wsite-menu-item"
+				>
+				Stream
+			</a>
+			
+		</li>
+		<li id="pg555247278325435192" class="wsite-menu-item-wrap">
+			<a
+						href="/updates.html"
+				class="wsite-menu-item"
+				>
+				Updates
+			</a>
+			
+		</li>
+		<li id="pg741116275966027445" class="wsite-menu-item-wrap">
+			<a
+						href="http://PEAKXEL.TPDDNS.CN:23333"
+					target="_blank"
+				class="wsite-menu-item"
+				>
+				Control Panel
+			</a>
+			
+		</li>
+</ul>
+</div>
+          <a class="hamburger" aria-label="Menu" href="#"><span></span></a>
+        </div>
+      </div>
+    </div>
+
+    <div class="banner-wrap">
+      <div class="wsite-elements wsite-not-footer wsite-header-elements">
+	<div class="wsite-section-wrap">
+	<div  class="wsite-section wsite-header-section wsite-section-bg-image" style="height: 1320px;background-image: url(&quot;/uploads/1/0/3/2/103273226/background-images/1389374582.png&quot;) ;background-repeat: no-repeat ;background-position: 50% 50% ;background-size: 100% ;background-color: transparent ;background-size: cover;" >
+		<div class="wsite-section-content">
+			
+          <div class="container">
+            <div class="banner">
+				<div class="wsite-section-elements">
+					<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;">
+					
+						
+
+<h2 class="wsite-content-title" style="text-align:left;"><font size="7">&#21271;&#32654;Minecraft&#32431;&#20928;&#25554;&#20214;&#26381;</font></h2>
+
+<div class="paragraph" style="text-align:left;">100%&#21407;&#29983;&#65292;&#30446;&#21069;&#21482;&#26159;&#19968;&#20010;&#31169;&#20154;&#30340;&#29609;&#29609;&#29992;&#30340;&#26381;&#21153;&#22120;<br /><br /><br /><br /><br />&#26381;&#21153;&#22120;&#29366;&#24577;&#35831;&#30475;&#19979;&#26041;&#65288;&#22914;&#26524;&#20160;&#20040;&#37117;&#27809;&#26377;&#23601;&#26159;&#31163;&#32447;&#65289;</div>
+
+<div><div id="878243839271047561" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><div id="google_translate_element"></div>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'zh_hans'}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script></div>
+
+
+
+</div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;">
+					
+						
+
+<div class="wsite-spacer" style="height:50px;"></div>
+
+<div><div id="914814851987283060" align="right" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><iframe src="https://discord.com/widget?id=366080038283771904&theme=dark" width="300" height="400" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe></div>
+
+
+
+</div>
+
+<div style="text-align:right;"><div style="height: 10px; overflow: hidden;"></div>
+<a class="wsite-button wsite-button-large wsite-button-normal" href="https://discord.com/api/oauth2/authorize?client_id=1076020002563559444&permissions=8&scope=applications.commands+bot" target="_blank">
+<span class="wsite-button-inner">点我添加网易云机器人</span>
+</a>
+<div style="height: 10px; overflow: hidden;"></div></div>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div>
+
+<div class="wsite-spacer" style="height:105px;"></div>
+
+<div><div id="918539679372737527" align="center" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><iframe src="https://api.loohpjames.com/serverbanner.png?ip=PEAKXEL.TPDDNS.CN&width=1100" width=1100 allowtransparency="true" frameborder="0"></iframe>
+
+</div>
+
+
+
+</div>
+
+<div id="296913912734037271"><div><style type="text/css">
+	#element-e9374e5b-c652-4dd1-9706-96d9117fff5c a.back-to-top {
+  display: none;
+  width: 60px;
+  height: 60px;
+  text-indent: -9999px;
+  position: fixed;
+  z-index: 999;
+  bottom: 70px;
+  background: #FFC800 url("//marketplace.editmysite.com/uploads/b/marketplace-elements-569198776394566218-1.0.1/assets/up-arrow.png") no-repeat center 43%;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  border-radius: 30px;
+}
+#element-e9374e5b-c652-4dd1-9706-96d9117fff5c a.back-to-top.back-to-top-left {
+  left: 30px;
+}
+#element-e9374e5b-c652-4dd1-9706-96d9117fff5c a.back-to-top.back-to-top-right {
+  right: 30px;
+}
+
+</style><div id="element-e9374e5b-c652-4dd1-9706-96d9117fff5c" data-platform-element-id="569198776394566218-1.0.1" class="platform-element-contents">
+	<a href="#" class="back-to-top back-to-top-right"></a>
+
+</div>
+<div style="clear:both;"></div><script type="text/javascript" class="element-script">function setupElement296913912734037271() {
+	var requireFunc = window.platformElementRequire || window.require;
+
+	// Relies on a global require, specific to platform elements
+	requireFunc([
+		'w-global',
+		'underscore',
+		'jquery',
+		'backbone',
+		'util/platform/elements/PlatformElement',
+		'util/platform/elements/PlatformElementSettings'
+	], function(
+		_W,
+		_,
+		$,
+		Backbone,
+		PlatformElement,
+		PlatformElementSettings
+	) {
+		var dependencies = null || [];
+		var platform_element_id = "569198776394566218-1.0.1";
+
+		if (typeof _W.loadedPlatformDependencies === 'undefined') {
+			_W.loadedPlatformDependencies = [];
+		}
+
+		if (typeof _W.platformElements === 'undefined') {
+			_W.platformElements = [];
+		}
+
+		if (typeof _W.platformElements[platform_element_id] === 'undefined') {
+			_W.platformElements[platform_element_id] = {};
+			_W.platformElements[platform_element_id].deferredObject = new $.Deferred();
+			_W.platformElements[platform_element_id].deferredPromise = _W.platformElements[platform_element_id].deferredObject.promise();
+		}
+
+		if(_.intersection(_W.loadedPlatformDependencies, dependencies).length !== dependencies.length){
+			_.reduce(dependencies, function(promise, nextScript){
+				_W.loadedPlatformDependencies.push(nextScript);
+				return promise.then(function(){
+					return $.getScript(nextScript);
+				});
+			}, $().promise()).then(function(){
+				_W.platformElements[platform_element_id].deferredObject.resolve();
+			});
+		}
+
+		if (dependencies.length === 0){
+			_W.platformElements[platform_element_id].deferredObject.resolve();
+		}
+
+		_W.platformElements[platform_element_id].deferredPromise.done(function(){
+			var _ElementDefinition = PlatformElement.extend({
+    initialize: function(options) {
+	    this.amountScrolled = 300;
+
+	    var self = this;
+
+	    $(window).bind('scroll', function (ev) {
+		    self.checkAppear();
+	    });
+    },
+
+    events: {
+    	"click a.back-to-top": "goBackToTop"
+    },
+
+	goBackToTop: function() {
+
+		var animateTimeMS = 1000 - (parseInt(this.settings.get("scroll_speed")) * 100);
+
+		$('html, body').animate({
+			scrollTop: 0
+		}, animateTimeMS);
+		
+		return false;
+	},
+
+	checkAppear: function() {
+		if ( $(window).scrollTop() > this.amountScrolled ) {
+			$('a.back-to-top').fadeIn('slow');
+		} else {
+			$('a.back-to-top').fadeOut('slow');
+		}
+	}
+});
+
+;
+
+			if (typeof _ElementDefinition == 'undefined' || typeof _ElementDefinition == 'null') {
+				var _ElementDefinition = PlatformElement.extend({});
+			}
+
+			var _Element = _ElementDefinition.extend({
+				initialize: function() {
+					// we still want to call the initialize function defined by the developer
+					// however, we don't want to call it until placeholders have been replaced
+					this.placeholderInterval = setInterval(function() {
+						// so use setInterval to check for placeholders.
+						if (this.$('.platform-element-child-placeholder').length == 0) {
+							clearInterval(this.placeholderInterval);
+							this.constructor.__super__.initialize.apply(this);
+						}
+					}.bind(this), 100);
+				}
+			});
+
+			_Element.prototype.settings = new PlatformElementSettings({"icon_size_each":[{"icon_size_index":0},{"icon_size_index":1},{"icon_size_index":2},{"icon_size_index":3},{"icon_size_index":4},{"icon_size_index":5},{"icon_size_index":6},{"icon_size_index":7},{"icon_size_index":8},{"icon_size_index":9},{"icon_size_index":10},{"icon_size_index":11},{"icon_size_index":12},{"icon_size_index":13},{"icon_size_index":14},{"icon_size_index":15},{"icon_size_index":16},{"icon_size_index":17},{"icon_size_index":18},{"icon_size_index":19},{"icon_size_index":20},{"icon_size_index":21},{"icon_size_index":22},{"icon_size_index":23},{"icon_size_index":24},{"icon_size_index":25},{"icon_size_index":26},{"icon_size_index":27},{"icon_size_index":28},{"icon_size_index":29},{"icon_size_index":30},{"icon_size_index":31},{"icon_size_index":32},{"icon_size_index":33},{"icon_size_index":34},{"icon_size_index":35},{"icon_size_index":36},{"icon_size_index":37},{"icon_size_index":38},{"icon_size_index":39},{"icon_size_index":40},{"icon_size_index":41},{"icon_size_index":42},{"icon_size_index":43},{"icon_size_index":44},{"icon_size_index":45},{"icon_size_index":46},{"icon_size_index":47},{"icon_size_index":48},{"icon_size_index":49},{"icon_size_index":50},{"icon_size_index":51},{"icon_size_index":52},{"icon_size_index":53},{"icon_size_index":54},{"icon_size_index":55},{"icon_size_index":56},{"icon_size_index":57},{"icon_size_index":58},{"icon_size_index":59}],"scroll_speed_each":[{"scroll_speed_index":0},{"scroll_speed_index":1},{"scroll_speed_index":2}],"margin_bottom_each":[{"margin_bottom_index":0},{"margin_bottom_index":1},{"margin_bottom_index":2},{"margin_bottom_index":3},{"margin_bottom_index":4},{"margin_bottom_index":5},{"margin_bottom_index":6},{"margin_bottom_index":7},{"margin_bottom_index":8},{"margin_bottom_index":9},{"margin_bottom_index":10},{"margin_bottom_index":11},{"margin_bottom_index":12},{"margin_bottom_index":13},{"margin_bottom_index":14},{"margin_bottom_index":15},{"margin_bottom_index":16},{"margin_bottom_index":17},{"margin_bottom_index":18},{"margin_bottom_index":19},{"margin_bottom_index":20},{"margin_bottom_index":21},{"margin_bottom_index":22},{"margin_bottom_index":23},{"margin_bottom_index":24},{"margin_bottom_index":25},{"margin_bottom_index":26},{"margin_bottom_index":27},{"margin_bottom_index":28},{"margin_bottom_index":29},{"margin_bottom_index":30},{"margin_bottom_index":31},{"margin_bottom_index":32},{"margin_bottom_index":33},{"margin_bottom_index":34},{"margin_bottom_index":35},{"margin_bottom_index":36},{"margin_bottom_index":37},{"margin_bottom_index":38},{"margin_bottom_index":39},{"margin_bottom_index":40},{"margin_bottom_index":41},{"margin_bottom_index":42},{"margin_bottom_index":43},{"margin_bottom_index":44},{"margin_bottom_index":45},{"margin_bottom_index":46},{"margin_bottom_index":47},{"margin_bottom_index":48},{"margin_bottom_index":49},{"margin_bottom_index":50},{"margin_bottom_index":51},{"margin_bottom_index":52},{"margin_bottom_index":53},{"margin_bottom_index":54},{"margin_bottom_index":55},{"margin_bottom_index":56},{"margin_bottom_index":57},{"margin_bottom_index":58},{"margin_bottom_index":59},{"margin_bottom_index":60},{"margin_bottom_index":61},{"margin_bottom_index":62},{"margin_bottom_index":63},{"margin_bottom_index":64},{"margin_bottom_index":65},{"margin_bottom_index":66},{"margin_bottom_index":67},{"margin_bottom_index":68},{"margin_bottom_index":69}],"margin_horizontal_each":[{"margin_horizontal_index":0},{"margin_horizontal_index":1},{"margin_horizontal_index":2},{"margin_horizontal_index":3},{"margin_horizontal_index":4},{"margin_horizontal_index":5},{"margin_horizontal_index":6},{"margin_horizontal_index":7},{"margin_horizontal_index":8},{"margin_horizontal_index":9},{"margin_horizontal_index":10},{"margin_horizontal_index":11},{"margin_horizontal_index":12},{"margin_horizontal_index":13},{"margin_horizontal_index":14},{"margin_horizontal_index":15},{"margin_horizontal_index":16},{"margin_horizontal_index":17},{"margin_horizontal_index":18},{"margin_horizontal_index":19},{"margin_horizontal_index":20},{"margin_horizontal_index":21},{"margin_horizontal_index":22},{"margin_horizontal_index":23},{"margin_horizontal_index":24},{"margin_horizontal_index":25},{"margin_horizontal_index":26},{"margin_horizontal_index":27},{"margin_horizontal_index":28},{"margin_horizontal_index":29}],"background_color":"#FFC800","icon_size":60,"scroll_speed":3,"margin_bottom":70,"left_or_right":"right","margin_horizontal":30});
+			_Element.prototype.settings.page_element_id = "296913912734037271";
+
+			_Element.prototype.element_id = "e9374e5b-c652-4dd1-9706-96d9117fff5c";
+			_Element.prototype.user_id = "103273226";
+			_Element.prototype.site_id = "563649782826242999";
+			_Element.prototype.assets_path = "//marketplace.editmysite.com/uploads/b/marketplace-elements-569198776394566218-1.0.1/assets/";
+			new _Element({
+				el: '#element-e9374e5b-c652-4dd1-9706-96d9117fff5c'
+			});
+		});
+	});
+
+}
+
+if (typeof document.documentElement.appReady == 'undefined') {
+	document.documentElement.appReady = 0;
+}
+
+if (document.documentElement.appReady || (window.inEditor && window.inEditor())) {
+	setupElement296913912734037271();
+} else if (document.createEvent && document.addEventListener) {
+	document.addEventListener('appReady', setupElement296913912734037271, false);
+} else {
+	document.documentElement.attachEvent('onpropertychange', function(event){
+		if (event.propertyName == 'appReady') {
+			setupElement296913912734037271();
+		}
+	});
+}
+
+</script></div></div>
+				</div>
+			</div>
+          </div>
+      
+		</div>
+		<div class=""></div>
+	</div>
+</div>
+
+</div>
+
+    </div>
+
+    <div class="main-wrap">
+      <div id="wsite-content" class="wsite-elements wsite-not-footer">
+	<div class="wsite-section-wrap">
+	<div class="wsite-section wsite-body-section wsite-section-bg-image wsite-section-effect-reveal wsite-background-22" style="height: 1320px;background-image: url(&quot;/uploads/1/0/3/2/103273226/background-images/1219642056.png&quot;) ;background-repeat: no-repeat ;background-position: NaN% NaN% ;background-size: 100% ;background-color: transparent ;background-size: cover;" >
+		<div class="wsite-section-content">
+          <div class="container">
+			<div class="wsite-section-elements">
+				<div class="wsite-spacer" style="height:122px;"></div>
+
+<h2 class="wsite-content-title" style="text-align:center;"><font color="#ffffff" size="7">&#21490;&#26080;&#21069;&#20363;&#30340;&#24555;</font></h2>
+
+<div class="wsite-spacer" style="height:12px;"></div>
+
+<div class="paragraph" style="text-align:center;"><font color="#ffffff" size="5">&#26356;&#21407;&#29983;&nbsp; &nbsp;&#26356;&#27969;&#30021;&nbsp; &#26356;&#20415;&#25463;&nbsp; &#26356;&#26497;&#33268;</font></div>
+
+<div class="wsite-spacer" style="height:50px;"></div>
+
+<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -55px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:27.004734185018%; padding:0 55px;">
+					
+						
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+<a>
+<img src="/uploads/1/0/3/2/103273226/editor/235381856.png?1675625537" alt="Picture" style="width:96;max-width:100%" />
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+<h2 class="wsite-content-title" style="text-align:center;"><font color="#ffffff" size="4"><strong>&#20248;&#21183;&#22312;&#25105;</strong></font></h2>
+
+<div class="paragraph" style="text-align:center;"><font color="#ffffff" size="4">&#34429;&#28982;Java&#23545;&#30005;&#33041;&#26377;&#20123;&#35768;&#35201;&#27714;<br />&#20294;&#26159;&#23545;&#27604;&#22522;&#23721;&#29256;<br />&#28155;&#21152;&#20102;&#35768;&#22810;&#21151;&#33021;<br />&#21407;&#29983;&#32780;&#19988;&#26356;&#22909;&#29609;</font></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:22.544492803108%; padding:0 55px;">
+					
+						
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+<a>
+<img src="/uploads/1/0/3/2/103273226/published/865338502.png?1675625532" alt="Picture" style="width:101;max-width:100%" />
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+<h2 class="wsite-content-title" style="text-align:center;"><font color="#ffffff" size="4"><strong>&#32440;&#29255;&#26381;&#21153;&#22120;</strong></font></h2>
+
+<div class="paragraph" style="text-align:center;"><font color="#ffffff" size="4">&#36215;&#39134;&#33324;&#30340;&#36895;&#24230;&#65292;&#21516;&#26102;&#20860;&#23481;&#22810;&#31181;&#25554;&#20214;&#65292;&#32473;&#26381;&#21153;&#22120;&#24102;&#26469;&#26080;&#23613;&#21487;&#33021;<br />&#26080;&#38656;&#32321;&#29712;&#30340;&#25972;&#21512;&#21253;&#19982;&#24456;&#39640;&#30340;&#20869;&#23384;&#37197;&#32622;</font></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:22.65044868775%; padding:0 55px;">
+					
+						
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+<a>
+<img src="/uploads/1/0/3/2/103273226/published/geyser.png?1675625499" alt="Picture" style="width:auto;max-width:100%" />
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+<div class="wsite-spacer" style="height:32px;"></div>
+
+<div class="paragraph" style="text-align:center;"><strong><font color="#ffffff" size="4">&#38388;&#27463;&#27849;&#22522;&#23721;&#29256;&#25903;&#25345;</font></strong></div>
+
+<div class="paragraph"><font size="4"><font color="#ffffff">&#20351;&#26469;&#33258;</font><span style="color:rgb(255, 255, 255)">&#22522;&#23721;&#29256;&#29992;&#25143;&#23613;&#21487;&#33021;&#26080;&#32541;&#22320;&#21152;&#20837;</span><span style="color:rgb(255, 255, 255)">Java &#26381;&#21153;&#22120;&#20197;&#23454;&#29616;&#36328;&#24179;&#21488;</span></font></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:27.800324324123%; padding:0 55px;">
+					
+						
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+<a>
+<img src="/uploads/1/0/3/2/103273226/published/grassblock-highres.png?1675625898" alt="Picture" style="width:101;max-width:100%" />
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+<h2 class="wsite-content-title" style="text-align:center;"><strong><font size="4" color="#ffffff">&#22987;&#32456;&#22914;&#19968;</font></strong></h2>
+
+<div class="paragraph" style="text-align:center;"><font size="4"><font color="#ffffff">Discord&#19982;&#26381;&#21153;&#22120;&#22810;&#23618;&#32852;&#21160;</font><br /><font color="#ffffff">&#36328;&#19990;&#30028;&#21327;&#21516;<br />&#22312;&#32447;&#22320;&#22270;&#21487;&#20379;&#26597;&#30475;<br />&#21482;&#20026;&#21407;&#29983;MC&#24102;&#26469;&#26356;&#22810;&#20048;&#36259;</font></font></div>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div>
+
+<div class="wsite-spacer" style="height:84px;"></div>
+			</div>
+		</div>
+      </div>
+
+	</div>
+</div>
+<div class="wsite-section-wrap">
+	<div class="wsite-section wsite-body-section wsite-section-bg-image wsite-section-effect-reveal wsite-background-26" style="height: 1320px;background-image: url(&quot;/uploads/1/0/3/2/103273226/background-images/322187267.png&quot;) ;background-repeat: no-repeat ;background-position: 50% 50% ;background-size: 100% ;background-color: transparent ;background-size: cover;" >
+		<div class="wsite-section-content">
+          <div class="container">
+			<div class="wsite-section-elements">
+				<div><div style="height:0px;overflow:hidden"></div>
+<div id='914712004794464740-slideshow'></div>
+<script type='text/javascript'>
+(function(jQuery) {
+function init() { window.wSlideshow && window.wSlideshow.render({elementID:"914712004794464740",nav:"thumbnails",navLocation:"bottom",captionLocation:"bottom",transition:"fade",autoplay:"1",speed:"3",aspectRatio:"16:9",showControls:"true",randomStart:"false",images:[{"url":"1\/0\/3\/2\/103273226\/2022-03-26-22-04-25_1.png","width":"800","height":"338"},{"url":"1\/0\/3\/2\/103273226\/2022-03-26-22-22-45_1.png","width":"800","height":"338"},{"url":"1\/0\/3\/2\/103273226\/2022-03-26-22-25-07_1.png","width":"800","height":"338"},{"url":"1\/0\/3\/2\/103273226\/2022-03-26-22-12-59_1.png","width":"800","height":"338"},{"url":"1\/0\/3\/2\/103273226\/2022-03-26-22-15-46_1.png","width":"800","height":"338"},{"url":"1\/0\/3\/2\/103273226\/2022-03-26-22-16-34_1.png","width":"800","height":"338"},{"url":"1\/0\/3\/2\/103273226\/2022-03-26-22-22-11_1.png","width":"800","height":"338"},{"url":"1\/0\/3\/2\/103273226\/2022-03-26-22-25-20_1.png","width":"800","height":"338"},{"url":"1\/0\/3\/2\/103273226\/2022-03-26-22-07-52_1.png","width":"800","height":"338"},{"url":"1\/0\/3\/2\/103273226\/2022-08-16-18-02-13.png","width":800,"height":338,"fullHeight":464,"fullWidth":1100},{"url":"1\/0\/3\/2\/103273226\/2022-08-16-18-05-12.png","width":800,"height":338,"fullHeight":464,"fullWidth":1100},{"url":"1\/0\/3\/2\/103273226\/2022-08-16-18-07-07.png","width":800,"height":338,"fullHeight":464,"fullWidth":1100},{"url":"1\/0\/3\/2\/103273226\/2022-08-16-18-07-35.png","width":800,"height":338,"fullHeight":464,"fullWidth":1100}]}) }
+jQuery(document).ready(init);
+})(window.jQuery)
+</script>
+
+<div style="height:0px;overflow:hidden"></div></div>
+			</div>
+		</div>
+      </div>
+
+	</div>
+</div>
+<div class="wsite-section-wrap">
+	<div class="wsite-section wsite-body-section wsite-section-bg-color wsite-section-effect-reveal wsite-background-25" style="background-color: #ffffff;background-image: none;" >
+		<div class="wsite-section-content">
+          <div class="container">
+			<div class="wsite-section-elements">
+				<h2 class="wsite-content-title"><span style="color:rgb(14, 67, 97)">&#28216;&#25103;&#20869;&#21151;&#33021;&#20197;&#21450;&#25351;&#20196;</span></h2>
+
+<div class="paragraph">&#32463;&#27982;&#31867;&#65306;<br />-&#31665;&#23376;&#21830;&#24215;&#65306;&#25163;&#25569;&#29289;&#21697;&#65292;&#23545;&#20934;&#30446;&#26631;&#31665;&#23376;&#65292;&#20351;&#29992;/qs create &lt;&#21333;&#20215;&gt; | &#20462;&#25913;&#20986;&#21806;&#25110;&#25910;&#36141;&#21487;&#20197;&#21491;&#20987;&#21578;&#31034;&#29260;<br />-&#25293;&#21334;&#34892;&#65306;&#20351;&#29992;/ahouse&#65292;BIN&#26159;&#30452;&#25509;&#36141;&#20080;&#27169;&#24335;&#65292;Auction&#26159;&#25293;&#21334;&#27169;&#24335;<br />-&#28608;&#21169;&#65306;&#26080;&#38656;&#25351;&#20196;&#65292;&#21047;&#24618;&#26681;&#25454;&#38590;&#24230;&#26377;&#22870;&#21169;<br />-&#31995;&#32479;&#21830;&#24215;&#65306;&#22312;HOME&#30340;&#20301;&#32622;&#65292;&#26377;&#31995;&#32479;&#21830;&#24215;&#65292;&#21487;&#20197;&#20986;&#21806;&#29289;&#21697;<br /><br />&#29983;&#23384;&#31867;&#65306;<br />-&#38543;&#36523;&#32972;&#21253;&#65306;&#36229;&#22823;&#32972;&#21253;&#65292;&#26080;&#27861;&#21435;&#38500;&#65292;&#20294;&#26159;&#27704;&#19981;&#25481;&#33853;&#65288;&#24314;&#35758;&#20248;&#20808;&#20351;&#29992;&#26411;&#24433;&#31665;&#65289;<br />-&#27515;&#20129;&#31665;&#23376;&#65306;&#27515;&#20129;&#21518;&#26631;&#35760;&#20301;&#32622;&#24182;&#25910;&#38598;&#35013;&#22791;&#65288;10&#20998;&#38047;&#21518;&#28040;&#22833;&#65289;<br /><span style="color:rgb(14, 67, 97)">-&#38145;&#65306;&#21491;&#38190;&#21487;&#38145;&#31665;&#23376;&#65292;&#29076;&#28809;&#65292;&#28431;&#26007;&#65292;&#38376;&#65292;&#36824;&#26377;&#32418;&#30707;&#20445;&#25252;&#65292;&#21487;&#20197;&#28155;&#21152;&#20854;&#20182;&#29609;&#23478;</span><br /><span style="color:rgb(14, 67, 97)">-&#28216;&#25103;&#20869;TAB&#65306;&#26597;&#30475;&#28216;&#29609;&#26102;&#24120;&#65292;&#26102;&#38388;&#65292;&#26381;&#21153;&#22120;&#29366;&#24577;&#65292;&#32593;&#32476;&#24773;&#20917;&#65292;&#38065;&#21253;&#65292;&#20854;&#20182;&#29609;&#23478;<br />-&#33258;&#21160;&#25972;&#29702;&#65306;&#40664;&#35748;&#24212;&#26159;&#21452;&#20987;&#65292;&#20294;&#26159;&#21487;&#20197;&#22312;&#30028;&#38754;&#20013;&#28857;&#20987;&#31354;&#30333;&#20301;&#32622;&#24182;&#25353;&#19979;SHIFT&#26469;&#26356;&#25913;&#27169;&#24335;</span><br /><span style="color:rgb(14, 67, 97)">-&#22312;&#32447;&#22320;&#22270;&#65306;&#22312;&#32593;&#31449;&#19978;&#28857;&#24320;MAP&#35775;&#38382;&#22320;&#22270;&#65288;&#30495;&#30340;&#38750;&#24120;&#26377;&#29992;&#65289;</span><br /><span style="color:rgb(14, 67, 97)">-&#20892;&#19994;&#21319;&#32423;&#65306;&#20351;&#29992;&#19981;&#21516;&#26448;&#36136;&#30340;&#38148;&#22836;&#22823;&#38754;&#31215;&#25910;&#21106;&#65292;&#33756;&#22320;&#20877;&#20063;&#36393;&#19981;&#22351;&#20102;</span><br /><span style="color:rgb(14, 67, 97)">-&#31070;&#22120;&#65306;&#26432;&#24618;&#21644;&#25720;&#31665;&#23376;&#26377;&#20960;&#29575;&#20986;&#26377;&#29305;&#27530;&#25216;&#33021;&#30340;&#31070;&#22120;&#65288;&#26080;&#38480;&#32784;&#20037;&#65289;</span><br /><span style="color:rgb(14, 67, 97)">-&#21333;&#20154;&#30561;&#35273;&#65306;&#21834;&#23545;&#65292;&#19968;&#20010;&#20154;&#30561;&#23601;&#34892;&#65292;&#20294;&#26159;&#24187;&#32764;</span><span style="color:rgb(14, 67, 97)">&#36825;&#19996;&#35199;&#36824;&#26159;&#26377;&#30340;&#12290;</span><br /><span style="color:rgb(14, 67, 97)">-TPA&#65306;&#20351;&#29992;/tpa &lt;&#21517;&#23383;&gt;</span><br /><span style="color:rgb(14, 67, 97)">-&#20256;&#36865;&#28857;&#65306;&#20351;&#29992;/sethome &lt;&#21517;&#23383;&gt;&#21019;&#24314;&#65292;&#20351;&#29992;/home &lt;&#21517;&#23383;&gt;&#20256;&#36865;&#65292;&#20351;&#29992;/homes&#26597;&#30475;&#25152;&#26377;&#20256;&#36865;&#28857;</span><br /><br />&#25216;&#33021;&#31867;&#65306;<br />-Adapt&#65306;&#20351;&#29992;/adapt gui [Main]&#25171;&#24320;GUI<br />-Skills&#65306;&#20351;&#29992;/skill &#25171;&#24320;&#20027;&#35201;Skill&#31561;&#32423;&#31995;&#32479;GUI<br /><br />&#20854;&#20182;&#30340;&#65306;<br />-Discord&#32852;&#21160;&#65306;&#21487;&#22312;&#28216;&#25103;&#20013;&#19982;Discord&#20869;&#30340;&#20154;&#20132;&#27969;</div>
+			</div>
+		</div>
+      </div>
+
+	</div>
+</div>
+
+</div>
+
+    </div>
+
+    <div class="footer-wrap">
+        <div class="footer">
+
+<style type="text/css">
+	@font-face {
+		font-family: SQMarket-Medium;
+		font-style: normal;
+		font-weight: 500;
+		src:
+			url("//cdn2.editmysite.com/fonts/SQ_Market/sqmarket-medium.woff2") format("woff2"),
+			url("//cdn2.editmysite.com/fonts/SQ_Market/sqmarket-medium.woff") format("woff");
+	}
+</style>
+
+<div id="weebly-footer-signup-container-v3">
+	<a
+		href="https://www.weebly.com/signup?utm_source=internal&utm_medium=footer"
+		target="_blank"
+		class="signup-container-header"
+		id="signup-link-href"
+	>
+		<div class="powered-by">
+			<div class="footer-published-ab-powered-by">
+				Powered by <span class="link weebly-icon"></span>
+				<img class="footer-ab-published-toast-image" src="//cdn2.editmysite.com/images/site/footer/footer-toast-published-image-1.png">
+				<span class="footer-ab-published-toast-text">Create your own unique website with customizable templates.</span>
+				<span class="footer-ab-published-toast-button-wrapper">
+					<button class="footer-published-ab-button">Get Started</button>
+				</span>
+			</div>
+		</div>
+	</a>
+</div>
+
+<script type="text/javascript" src="//cdn2.editmysite.com/js/site/footerSignup.js?buildTime=1717716679"></script>
+<script type="text/javascript">
+	if (document.readystate === 'complete') {
+		Weebly.footer.setupContainer('cdn2.editmysite.com', '1717716679');
+	} else {
+		document.addEventListener('DOMContentLoaded', function() {
+			Weebly.footer.setupContainer('cdn2.editmysite.com', '1717716679');
+		});
+	}
+</script>
+</div>
+    </div><!-- end footer-wrap -->
+  </div><!-- /.wrapper -->
+
+  <div id="navMobile" class="nav mobile-nav">
+    <a class="hamburger" aria-label="Menu" href="#"><span></span></a>
+    <ul class="wsite-menu-default">
+    		<li id="active" class="wsite-menu-item-wrap">
+    			<a
+    						href="/"
+    				class="wsite-menu-item"
+    				>
+    				Home
+    			</a>
+    			
+    		</li>
+    		<li id="pg599322842439945335" class="wsite-menu-item-wrap">
+    			<a
+    						href="http://PEAKXEL.TPDDNS.CN:8123/"
+    					target="_blank"
+    				class="wsite-menu-item"
+    				>
+    				Map
+    			</a>
+    			
+    		</li>
+    		<li id="pg586815551771405977" class="wsite-menu-item-wrap">
+    			<a
+    						href="http://PEAKXEL.TPDDNS.CN:8080"
+    					target="_blank"
+    				class="wsite-menu-item"
+    				>
+    				Stream
+    			</a>
+    			
+    		</li>
+    		<li id="pg555247278325435192" class="wsite-menu-item-wrap">
+    			<a
+    						href="/updates.html"
+    				class="wsite-menu-item"
+    				>
+    				Updates
+    			</a>
+    			
+    		</li>
+    		<li id="pg741116275966027445" class="wsite-menu-item-wrap">
+    			<a
+    						href="http://PEAKXEL.TPDDNS.CN:23333"
+    					target="_blank"
+    				class="wsite-menu-item"
+    				>
+    				Control Panel
+    			</a>
+    			
+    		</li>
+    </ul>
+  </div>
+
+	<script type="text/javascript" src="/files/theme/plugins.js?1565969634"></script>
+  <script type="text/javascript" src="/files/theme/custom.js?1565969634"></script>
+    <div id="customer-accounts-app"></div>
+    <script src="//cdn2.editmysite.com/js/site/main-customer-accounts-site.js?buildTime=1717716679"></script>
+
+		<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-7870337-1']);
+	_gaq.push(['_setDomainName', 'none']);
+	_gaq.push(['_setAllowLinker', true]);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		// NOTE: keep the [1] if you replace this code. Otherwise cookie banner scripts won't be first on the page
+		var s = document.getElementsByTagName('script')[1]; s.parentNode.insertBefore(ga, s);
+	})();
+
+	_W.Analytics = _W.Analytics || {'trackers': {}};
+	_W.Analytics.trackers.wGA = '_gaq';
+</script>
+
+<script type="text/javascript" async=1>
+	// NOTE: keep the getElementsByTagName(o)**[1]** if you replace this code. Otherwise cookie banner scripts won't be first on the page
+	;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+			p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+			};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[1];n.async=1;
+			n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,'script','//cdn2.editmysite.com/js/wsnbn/snowday262.js','snowday'));
+
+	var r = [99, 104, 101, 99, 107, 111, 117, 116, 46, 40, 119, 101, 101, 98, 108, 121, 124, 101, 100, 105, 116, 109, 121, 115, 105, 116, 101, 41, 46, 99, 111, 109];
+	var snPlObR = function(arr) {
+		var s = '';
+		for (var i = 0 ; i < arr.length ; i++){
+			s = s + String.fromCharCode(arr[i]);
+		}
+		return s;
+	};
+	var s = snPlObR(r);
+
+	var regEx = new RegExp(s);
+
+	_W.Analytics = _W.Analytics || {'trackers': {}};
+	_W.Analytics.trackers.wSP = 'snowday';
+	_W.Analytics.user_id = '103273226';
+	_W.Analytics.site_id = '563649782826242999';
+
+	var drSegmentsTag = document.getElementById('drSegments');
+	if (drSegmentsTag) {
+		_W.Analytics.spContexts = _W.Analytics.spContexts || [];
+
+		var segmentData = JSON.parse(drSegmentsTag.innerText);
+		segmentData.forEach(function(test) {
+			_W.Analytics.spContexts.push({
+				schema: "iglu:com.weebly/context_ab_segment/jsonschema/1-0-0",
+				data: {
+					test_id: test.name,
+					segment: test.variant,
+				}
+			});
+		});
+	}
+
+
+	(function(app_id, ec_hostname, discover_root_domain) {
+		var track = window[_W.Analytics.trackers.wSP];
+		if (!track) return;
+		track('newTracker', app_id, ec_hostname, {
+			appId: app_id,
+			post: true,
+			platform: 'web',
+			discoverRootDomain: discover_root_domain,
+			cookieName: '_snow_',
+			contexts: {
+				webPage: true,
+				performanceTiming: true,
+				gaCookies: true
+			},
+			crossDomainLinker: function (linkElement) {
+				return regEx.test(linkElement.href);
+			},
+			respectDoNotTrack: true
+		});
+		track('trackPageView', _W.Analytics.user_id+':'+_W.Analytics.site_id, _W.Analytics.spContexts);
+		track('crossDomainLinker', function (linkElement) {
+			return regEx.test(linkElement.href);
+		});
+	})(
+		'_wn',
+		'ec.editmysite.com',
+		false
+	);
+</script>
+
+
+
+
+
+<script>
+	(function(jQuery) {
+		try {
+			if (jQuery) {
+				jQuery('div.blog-social div.fb-like').attr('class', 'blog-social-item blog-fb-like');
+				var $commentFrame = jQuery('#commentArea iframe');
+				if ($commentFrame.length > 0) {
+					var frameHeight = jQuery($commentFrame[0].contentWindow.document).height() + 50;
+					$commentFrame.css('min-height', frameHeight + 'px');
+				}
+				if (jQuery('.product-button').length > 0){
+					jQuery(document).ready(function(){
+						jQuery('.product-button').parent().each(function(index, product){
+							if(jQuery(product).attr('target') == 'paypal'){
+								if (!jQuery(product).find('> [name="bn"]').length){
+									jQuery('<input>').attr({
+										type: 'hidden',
+										name: 'bn',
+										value: 'DragAndDropBuil_SP_EC'
+									}).appendTo(product);
+								}
+							}
+						});
+					});
+				}
+			}
+			else {
+				// Prototype
+				$$('div.blog-social div.fb-like').each(function(div) {
+					div.className = 'blog-social-item blog-fb-like';
+				});
+				$$('#commentArea iframe').each(function(iframe) {
+					iframe.style.minHeight = '410px';
+				});
+			}
+		}
+		catch(ex) {}
+	})(window._W && _W.jQuery);
+</script>
+
+<script>
+	window._W.isEUUser = false;
+	window._W.showCookieToAll = "";
+</script>
+
+<script>
+	(function(jQuery) {
+		try {
+			function forceShowCcLinks() {
+				var ccLinks = document.querySelector('.cc_links');
+				if (!ccLinks) {
+					return;
+				}
+
+				var ccLinksVisible = jQuery(ccLinks).is(':visible');
+				if (ccLinksVisible) {
+					return;
+				}
+
+
+				ccLinks.style.display = 'block';
+
+				var ccParent = ccLinks.parentElement;
+
+				var ccParentVisible = jQuery(ccParent).is(':visible');
+				if (ccParentVisible) {
+					return;
+				}
+
+				ccParent.style.display = 'block';
+
+				var ccGrandparent = ccParent.parentElement;
+				var ccGrandparentVisible = jQuery(ccGrandparent).is(':visible');
+				if (ccGrandparentVisible) {
+					return;
+				}
+				ccGrandparent.style.display = 'block';
+
+			}
+
+			function forceShowCcLinksForever() {
+				var tenSeconds = 10000;
+				forceShowCcLinks();
+				setTimeout(forceShowCcLinksForever, tenSeconds);
+			}
+
+			jQuery(document).ready(forceShowCcLinksForever);
+		}
+		catch(ex) {}
+	})(window._W && _W.jQuery);
+</script>
+
+
+	</body>
+</html>

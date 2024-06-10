@@ -1,0 +1,234 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Open+Sans:wght@400;700&display=swap');
+
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    background: url("../images/salon_bg.jpg"); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+}
+
+.navbar {
+    background: transparent;
+    backdrop-filter: blur(10px);
+    transition: background 0.3s, box-shadow 0.3s, color 0.3s;
+}
+
+.navbar .navbar-brand {
+    font-weight: bold;
+    text-transform: uppercase;
+    background: linear-gradient(90deg, #845EC2, #2C73D2, #0081CF, #0089BA, #008E9B, #008F7A);
+    background-size: 400%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: rainbow-text 5s ease-in-out infinite;
+}
+
+
+.navbar .nav-link {
+    color: #fff;
+    font-size: 14px;
+    padding: 10px 50px; 
+    text-transform: uppercase;
+    transition: color 0.3s, border-color 0.3s;
+    border: 1px solid transparent; 
+    margin-right: 20px; /* Adjust this value to increase spacing */
+}
+
+.navbar .nav-link.active {
+    border: 1px solid #fff;
+    color: #fff;
+}
+
+.navbar .nav-link:hover {
+    color: rgba(255, 255, 255, 0.7); /* Slightly transparent on hover */
+}
+
+.navbar.scrolled {
+    background: rgba(255, 255, 255, 0.95);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.navbar.scrolled .navbar-brand {
+    color: #333;
+}
+
+.navbar.scrolled .nav-link {
+    color: #333;
+}
+
+.navbar.scrolled .nav-link.active {
+    border: 1px solid #333; 
+}
+
+.navbar.scrolled .nav-link:hover {
+    color: rgba(51, 51, 51, 0.7); /* Slightly transparent on hover */
+}
+
+.navbar .btn-primary {
+    background-color: #ff6b6b;
+    border: none;
+    transition: background-color 0.3s;
+}
+
+.navbar .btn-primary:hover {
+    background-color: #ff3b3b;
+}
+
+.hero-section {
+    padding: 100px 20px;
+    background: rgba(255, 255, 255, 0.6);
+    border-radius: 10px;
+    margin-top: 70px;
+}
+
+.translucent-box {
+    background: rgba(255, 255, 255, 0.7);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 100px auto; /* Add margin to the sides and center the box */
+    max-width: 90%; /* Restrict the maximum width to ensure space on sides */
+    margin-top: 300px; /* Add some space before translucent box */
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 0.5rem 0; 
+    text-align: center;
+    width: 100%; 
+    margin: auto; /* Center the footer */
+    flex-shrink: 0;
+}
+
+footer p {
+    font-size: 0.8rem; /* Make the text smaller */
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    color: #fff; /* Change heading to white */
+}
+
+/* Additional custom styles */
+.logo-image {
+    margin-top: 20px; /* Add margin to the top of the logo */
+    margin-bottom: 40px; /* Increase margin to the bottom of the logo */
+    width: 128px;
+    height: 128px;
+}
+
+.main-title {
+    margin-top: 40px; /* Add margin to the top of the H1 title */
+    font-size: 2em;
+}
+
+@keyframes rainbow-text {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .navbar .navbar-toggler {
+        border: none;
+    }
+
+    .navbar .navbar-toggler:focus {
+        outline: none;
+        box-shadow: none;
+    }
+
+    .navbar .nav-item {
+        margin-right: 0;
+    }
+
+    .navbar .nav-link {
+        padding: 10px 15px;
+    }
+
+    .navbar .btn-primary {
+        margin-top: 10px;
+    }
+}
+
+/* Styles for booking page */
+#bookingForm .form-group {
+    margin-bottom: 1rem;
+}
+
+#bookingForm h4 {
+    margin-top: 1rem;
+}
+
+#bookingForm ul {
+    padding-left: 0;
+}
+
+#bookingForm ul li {
+    list-style: none;
+}
+
+/* Styles for about page */
+.about-section {
+    margin-top: 2rem;
+}
+
+.about-section h2, .about-section h4 {
+    margin-bottom: 1rem;
+}
+
+/* Custom styles for confirmation page */
+.confirmation-page .form-group {
+    margin-bottom: 1rem;
+}
+
+.confirmation-page h2 {
+    margin-bottom: 1.5rem;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+.scroll-down-animation {
+    width: 50px; /* Adjust the size as needed */
+    height: auto;
+}
+
+/* Limit the size of the images in the gallery */
+.gallery-img {
+    max-height: 500px;
+    object-fit: scale-down;
+}
+
+/* Ensure the caption is below the image */
+.carousel-caption {
+    position: static;
+}
+
+/* Control the height of the carousel */
+.carousel {
+    max-height: 550px;
+    overflow: hidden;
+}
+

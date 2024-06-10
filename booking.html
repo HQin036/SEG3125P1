@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Booking - Urban Chic Salon</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="src/css/styles.css" rel="stylesheet">
+</head>
+<body>
+    <header class="navbar navbar-expand-lg fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="#">Urban Chic Salon</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"><i class="fas fa-bars"></i></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="booking.html">Booking</a></li>
+                    <li class="nav-item"><a class="nav-link" href="services.html">Services</a></li>
+                    <li class="nav-item"><a class="nav-link" href="team.html">Our Team</a></li>
+                    <li class="nav-item"><a class="nav-link" href="about.html">About Us</a></li>
+                </ul>
+            </div>
+        </div>
+    </header>
+    <main class="container mt-5 pt-5">
+        <section class="mt-5 pt-5 translucent-box">
+            <h2>Book an Appointment</h2>
+            <form id="bookingForm">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h4>Services</h4>
+                        <ul class="list-unstyled">
+                            <li><input type="checkbox" name="service" value="Women's Haircut - $60" data-cost="60" id="service1"><label for="service1"> Women's Haircut - $60</label></li>
+                            <li><input type="checkbox" name="service" value="Men's Haircut - $40" data-cost="40" id="service2"><label for="service2"> Men's Haircut - $40</label></li>
+                            <li><input type="checkbox" name="service" value="Children's Haircut (under 12) - $30" data-cost="30" id="service3"><label for="service3"> Children's Haircut (under 12) - $30</label></li>
+                            <li><input type="checkbox" name="service" value="Blowout - $45" data-cost="45" id="service4"><label for="service4"> Blowout - $45</label></li>
+                            <li><input type="checkbox" name="service" value="Updo - $75" data-cost="75" id="service5"><label for="service5"> Updo - $75</label></li>
+                            <li><input type="checkbox" name="service" value="Bridal Hair - $120" data-cost="120" id="service6"><label for="service6"> Bridal Hair - $120</label></li>
+                            <li><input type="checkbox" name="service" value="Single Process Color - $85" data-cost="85" id="service7"><label for="service7"> Single Process Color - $85</label></li>
+                            <li><input type="checkbox" name="service" value="Full Highlights - $120" data-cost="120" id="service8"><label for="service8"> Full Highlights - $120</label></li>
+                            <li><input type="checkbox" name="service" value="Partial Highlights - $90" data-cost="90" id="service9"><label for="service9"> Partial Highlights - $90</label></li>
+                            <li><input type="checkbox" name="service" value="Balayage - $150" data-cost="150" id="service10"><label for="service10"> Balayage - $150</label></li>
+                            <li><input type="checkbox" name="service" value="Root Touch-up - $70" data-cost="70" id="service11"><label for="service11"> Root Touch-up - $70</label></li>
+                            <li><input type="checkbox" name="service" value="Deep Conditioning Treatment - $35" data-cost="35" id="service12"><label for="service12"> Deep Conditioning Treatment - $35</label></li>
+                            <li><input type="checkbox" name="service" value="Keratin Treatment - $150" data-cost="150" id="service13"><label for="service13"> Keratin Treatment - $150</label></li>
+                            <li><input type="checkbox" name="service" value="Scalp Treatment - $50" data-cost="50" id="service14"><label for="service14"> Scalp Treatment - $50</label></li>
+                            <li><input type="checkbox" name="service" value="Hair Extensions Consultation - Free" data-cost="0" id="service15"><label for="service15"> Hair Extensions Consultation - Free</label></li>
+                            <li><input type="checkbox" name="service" value="Hair Extensions Installation - $200+" data-cost="200" id="service16"><label for="service16"> Hair Extensions Installation - $200+</label></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <h4>Stylists</h4>
+                        <ul class="list-unstyled">
+                            <li><input type="radio" name="stylist" value="Jane Smith - Senior ($10 extra)" data-cost="10" id="stylist1"><label for="stylist1"> Jane Smith - Senior ($10 extra)</label></li>
+                            <li><input type="radio" name="stylist" value="John Doe - Senior ($10 extra)" data-cost="10" id="stylist2"><label for="stylist2"> John Doe - Senior ($10 extra)</label></li>
+                            <li><input type="radio" name="stylist" value="Emily Johnson - Master ($20 extra)" data-cost="20" id="stylist3"><label for="stylist3"> Emily Johnson - Master ($20 extra)</label></li>
+                            <li><input type="radio" name="stylist" value="Sarah Lee - Junior (No extra cost)" data-cost="0" id="stylist4"><label for="stylist4"> Sarah Lee - Junior (No extra cost)</label></li>
+                            <li><input type="radio" name="stylist" value="Michael Brown - Junior (No extra cost)" data-cost="0" id="stylist5"><label for="stylist5"> Michael Brown - Junior (No extra cost)</label></li>
+                        </ul>
+                        <h4>Select Date and Time</h4>
+                        <input type="date" class="form-control mb-3" name="date">
+                        <input type="time" class="form-control mb-3" name="time">
+                    </div>
+                </div>
+                <h4>Contact Information</h4>
+                <input type="text" class="form-control mb-3" placeholder="Enter Your Name" name="name">
+                <input type="email" class="form-control mb-3" placeholder="Enter Your Email" name="email">
+                <button type="submit" class="btn btn-primary">Finish</button>
+            </form>
+        </section>
+    </main>
+    <footer class="bg-dark text-white text-center py-4">
+        <p>Urban Chic Salon &copy; 2024. All rights reserved.</p>
+        <p>
+            <a href="#" class="text-white">Privacy Policy</a> |
+            <a href="#" class="text-white">Terms of Service</a>
+        </p>
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+    <script src="src/js/scripts.js"></script>
+</body>
+</html>
